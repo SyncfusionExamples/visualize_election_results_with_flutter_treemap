@@ -1,0 +1,27 @@
+name: visualize_election_results_with_treemap
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  syncfusion_flutter_maps: ^19.2.47-beta
+  syncfusion_flutter_treemap: ^19.2.47-beta
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+
+  
