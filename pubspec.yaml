@@ -13,8 +13,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  syncfusion_flutter_maps: ^19.2.47-beta
-  syncfusion_flutter_treemap: ^19.2.47-beta
+  syncfusion_flutter_maps: ^20.3.47
+  syncfusion_flutter_treemap: ^20.3.47
 
 dev_dependencies:
   flutter_test:
